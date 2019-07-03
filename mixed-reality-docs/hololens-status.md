@@ -16,23 +16,16 @@ ms.sitesec: library
 
 ✔️ **All services are active**
 
-Area|HoloLens (1st gen)|HoloLens 2:
+**Key**: ✔️ Good, ⓘ Information, ⚠ Warning, ❌ Critical 
+
+Area|HoloLens (1st gen)|HoloLens 2
 ---|:---:|:---:
 Azure services|✔️|✔️
 Store app|✔️|✔️
 Apps|✔️|✔️
 MDM|✔️|✔️
 
-**Key**<br/>
-✔️ Good, ⓘ Information, ⚠ Warning, ❌ Critical, 
-
-## Notes
-
-(Notes go here)
-
-
-
-## Related topics
+## Notes & Related topics
 
 [Frequently asked questions about using Skype for HoloLens](https://support.skype.com/en/faq/FA34641/frequently-asked-questions-about-using-skype-for-hololens)
 
